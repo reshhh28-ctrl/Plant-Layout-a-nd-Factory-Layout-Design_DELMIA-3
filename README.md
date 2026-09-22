@@ -39,4 +39,12 @@ Total Cycle Time per Component: ~54 minutes
 Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
 8. Plant Layout
 The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage.
+The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-21 at 9 06 43 AM" src="https://github.com/user-attachments/assets/86958eac-f45a-4cfa-a06b-11a7c649ed4e" />
+
+
+
+ 
+10. Conclusion
+The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
 The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view 
